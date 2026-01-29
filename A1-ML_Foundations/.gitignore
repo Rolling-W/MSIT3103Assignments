@@ -1,0 +1,13 @@
+/assignment1_hotstart.ipynb
+# Ignore CIFAR-10 data folder (large dataset)
+/data/
+data/
+
+# Ignore other large files
+*.pkl
+*.pt
+*.pth
+*.doc
+*.docx
+*.tmp
+
