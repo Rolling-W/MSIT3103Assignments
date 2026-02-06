@@ -11,3 +11,11 @@ data/
 *.docx
 *.tmp
 *.pdf
+
+# Ignore model files and checkpoints (very large)
+*.safetensors
+**/checkpoint-*/
+**/bert-mlm/
+**/gpt2-*/
+**/t5-*/
+*/assignment2/
