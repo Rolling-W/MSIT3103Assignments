@@ -10,6 +10,7 @@ data/
 *.docx
 *.tmp
 *.pdf
+*.png
 
 # Ignore model files and checkpoints (very large)
 *.safetensors
@@ -19,3 +20,5 @@ data/
 **/t5-*/
 */assignment2/
 **/a3_outputs/
+
+
